@@ -1,0 +1,22 @@
+﻿'ConsoleApplication27.exe' (Win32): Loaded 'C:\Users\Marchell Manurung\source\repos\ConsoleApplication27\Debug\ConsoleApplication27.exe'. Symbols loaded.
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Program Files\Norton Security\NortonData\22.17.1.50\Definitions\BASHDefs\20201020.002\UMEngx86.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x121c has exited with code 0 (0x0).
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'ConsoleApplication27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x1154 has exited with code 0 (0x0).
+The thread 0x110 has exited with code 0 (0x0).
+The thread 0x2254 has exited with code 0 (0x0).
+The thread 0x3344 has exited with code 0 (0x0).
+The program '[12844] ConsoleApplication27.exe' has exited with code 0 (0x0).

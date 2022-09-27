@@ -1,0 +1,53 @@
+#include<iostream>
+using namespace std;
+
+void konversifar() {
+	float f, c;
+	cout << "Masukkan Suhu (dalam celcius)= ";
+	cin >> c;
+	cout << endl;
+
+	f = 1.8 * c + 32;
+
+	cout << "Konversi Suhu dalam satuan Celcius ke Farenheit" << endl;
+	cout << "-------------------------------------------------------" << endl;
+	cout << "Hasil Pengkonversiannya adalah = " << f << endl;
+	cout << "-------------------------------------------------------" << endl;
+
+}
+
+void konversikel() {
+	float k, c;
+	cout << "Masukkan Suhu (dalam celcius)= ";
+	cin >> c;
+	cout << endl;
+
+	k = c + 273.15;
+
+	cout << "Konversi Suhu dalam satuan Celcius ke Kelvin" << endl;
+	cout << "--------------------------------------------------------" << endl;
+	cout << "Hasil Pengkonversiannya adalah = " << k << endl;
+	cout << "--------------------------------------------------------" << endl;
+}
+int main() {
+	int konversi;
+	float c, f, k;
+
+	cout << "Kode Konversi" << endl;
+	cout << "Kelvin = 1" << endl;
+	cout << "Farenheit = 2" << endl;
+	cout << "Jenis Konversi = ";
+	cin >> konversi;
+
+	switch (konversi) {
+	case 1:
+		konversikel();
+		break;
+	case 2:
+		konversifar();
+		break;
+	default:
+		cout << "Error! Silahkan Coba Lagi" << endl;
+	}
+
+}

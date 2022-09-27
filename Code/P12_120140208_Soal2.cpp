@@ -1,0 +1,31 @@
+// NIM: 120140208
+// Nama : Marchell Manurung
+// Tanggal : 13 November 2020
+// Deskripsi : Bilangan Terbesar
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a, b, c;
+
+	cin >> a;
+
+	cin >> b;
+
+	cin >> c;
+
+	if (a > b && a > c) {
+		cout << a;
+	}
+	else if (b > a && b > c) {
+		cout << b;
+	}
+	else if (c > a && c > b) {
+		cout << c;
+	}
+
+	return 0;
+
+}
